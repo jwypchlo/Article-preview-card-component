@@ -1,0 +1,15 @@
+{
+  "name": "article-preview-component",
+  "version": "1.0.0",
+  "description": "![Design preview for the Article preview component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "node-sass styles/sass/main.scss styles/css/main.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
